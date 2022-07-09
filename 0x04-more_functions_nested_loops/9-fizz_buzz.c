@@ -5,7 +5,7 @@
  * main - function that prints the numbers from 1 to 100
  * for multiples of three print Fizz
  * for the multiples of five print Buzz
- * return: Always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
