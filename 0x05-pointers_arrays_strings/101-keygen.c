@@ -20,7 +20,7 @@ int main(void)
 		sum += passw[index++];
 	}
 
-	password[index] = '\0';
+	passw[index] = '\0';
 
 	if (sum != 2772)
 	{
