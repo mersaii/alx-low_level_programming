@@ -1,1 +1,1 @@
-This is a repository about debugging in C programming language
+This is a repository about debugging
